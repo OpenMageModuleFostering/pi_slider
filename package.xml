@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>pi_slider</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Brands/Products Slider easier for customers to browse and shop by specific brands in a web-store.</summary>
+    <description>Brands/Products Slider easier for customers to browse and shop by specific brands in a web-store.</description>
+    <notes>First Preview Release</notes>
+    <authors><author><name>Pureimagination</name><user>Pureimagination</user><email>johncarter15oct@gmail.com</email></author></authors>
+    <date>2015-04-04</date>
+    <time>07:29:48</time>
+    <contents><target name="magecommunity"><dir><dir name="PI"><dir name="Slider"><dir name="Adminhtml"><dir name="Model"><dir name="System"><dir name="Config"><dir name="Display"><file name="Mycustomoptions.php" hash="408aaf16afcf8c5a64dcedb2bd72618a"/></dir><dir name="Source"><file name="Mycustomoptions.php" hash="6dffda6d5f6b0c953c441fcba95fb175"/></dir></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="d86426673b85217c248efdec692f0a2c"/></dir><dir name="Model"><file name="Slider.php" hash="d33caf2ba7f69e0dbc24e29b6fca0e01"/></dir><dir name="etc"><file name="adminhtml.xml" hash="6ce5224bed2d610d56d7018002343df3"/><file name="config.xml" hash="d05af97da046e65fdfffd0b5e532c518"/><file name="system.xml" hash="0630e7cd82fe001736ae69daf159d12d"/></dir><dir name="sql"><dir name="slider_setup"><file name="mysql4-install-0.1.0.php" hash="93bec09a8484e31f38ab858e742bcee4"/></dir></dir></dir></dir></dir></target><target name="magedesign"><dir><dir name="frontend"><dir name="rwd"><dir name="default"><dir name="template"><dir name="slider"><file name="home-slider.phtml" hash="8ec181d14210f0e89c5b0ba811daba30"/></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir><dir name="modules"><file name="PI_Slider.xml" hash="7bcaf6a2a49705d581c3a69951712731"/></dir></dir></target><target name="mageskin"><dir><dir name="frontend"><dir name="rwd"><dir name="default"><dir name="css"><file name="skin.css" hash="1d379fbbfee3e499d4ac3d9a569be521"/></dir><dir name="images"><file name="next-horizontal.png" hash="096dfc1c89bfec3a1d0a5ea87a22c9b3"/><file name="prev-horizontal.png" hash="095986388f3ac2c08ed1b2bcbdaa9ae3"/></dir><dir name="js"><file name="jquery-1.9.1.min.js" hash="397754ba49e9e0cf4e7c190da78dda05"/></dir></dir></dir><dir name="default"><dir name="default"><dir name="js"><file name="jquery.jcarousel.min.js" hash=""/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
