@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/pi_slider",
+    "name": "OpenMageModuleFostering\/pi_slider",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
-    "description": "Brands/Products Slider easier for customers to browse and shop by specific brands in a web-store.",
+    "description": "Brands\/Products Slider easier for customers to browse and shop by specific brands in a web-store.",
     "authors": [
-    {
-        "name": "Pureimagination",
-        "email": "johncarter15oct@gmail.com"
-    }
-],
+        {
+            "name": "Pureimagination",
+            "email": "johncarter15oct@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
