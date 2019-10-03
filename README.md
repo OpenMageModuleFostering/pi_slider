@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Brands/Products Slider easier for customers to browse and shop by specific brands in a web-store.
